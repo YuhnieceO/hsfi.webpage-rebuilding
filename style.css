@@ -1,0 +1,22 @@
+
+#title{ 
+   font-family: 'Playfair Display SC', serif;
+ text-align: center;
+ font-weight: bold;
+}
+
+ header {
+      text-align: center;
+      background: url("http://i.ebayimg.com/00/s/NjA1WDc5NA==/z/MWEAAOxyrrpThczr/$_32.JPG?set_id=880000500F");
+      background-size: cover;
+      color: #ff99ce;
+      font-family:'Orbitron', sans-serif;
+    }
+ul {
+      padding: 10px;
+      background: rgba(0,0,0,2.5);
+    }
+    li {
+      display: inline;
+      padding: 0px 10px 0px 10px;
+    }
